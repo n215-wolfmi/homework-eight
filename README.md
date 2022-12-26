@@ -3,7 +3,7 @@
 Author: Matthew Wolf, IUPUI, Spring 2022
 
 Web 4 Link to homework assignment:
-https://in-info-web4.informatics.iupui.edu/~wolfmi/homework-eight/ 
+https://in-info-web4.informatics.iupui.edu/~wolfmi/n215/homework-eight/ 
 
 This homework assignment is solely focused on creating a dynamic one-page website where, using javascript along with jQuery, different pages of content can be slotted into a specific div on the page. This assignment is a good view of how jQuery can be used to make dynamic websites.
 
